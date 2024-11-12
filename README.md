@@ -3,7 +3,7 @@
 This guide outlines the steps needed to set up a Kubernetes cluster using kubeadm.
 
 ## Pre-requisites:
-* Ubuntu OS (Xenial or later)
+* Ubuntu OS (Xenial or later) - t2.medium/28Gi of root volume
 * sudo privileges
 
 
